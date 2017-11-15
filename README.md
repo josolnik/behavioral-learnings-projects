@@ -1,2 +1,2 @@
-# behavioral-data-playground
-Creating a data blog
+# Behavioral Learnings
+Personal data blog focusing on behavioral data science
